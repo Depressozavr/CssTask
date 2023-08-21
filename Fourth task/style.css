@@ -1,0 +1,37 @@
+html {
+    background-color: #F5F5F5;
+}
+
+.tags {
+    width: 90px;
+    height: 35px;
+    background-color: #D63138;
+    padding: 10px;
+
+    color: #FFFFFF;
+    font-size: 27px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.list {
+    margin: 0;
+
+    padding: 10px 0 10px 10px;
+    list-style-type: none;
+    background-color: #FFFFFF;
+}
+
+.list li {
+    text-decoration: underline;
+    margin-right: 10px;
+    font-size: 18px;
+}
+
+.first-line {
+    display: inline-block;
+}
+
+.second-line {
+    display: inline-block;
+}
