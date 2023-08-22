@@ -27,3 +27,11 @@
     margin-top: 40px;
     font-size: 25px;
 }
+
+.wrong-link {
+    margin-top: 8rem;
+
+    font-weight: bold;
+    font-size: 45px;
+    text-align: center;
+}
